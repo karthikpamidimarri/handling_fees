@@ -47,6 +47,7 @@ group :development, :test do
   gem 'meta-tags'
   gem 'spree_autosuggest'
   gem 'spree_multi_currency', github: 'spree-contrib/spree_multi_currency', branch: '3-1-stable'
+  gem 'spree_handling_fees', github: 'spree-contrib/spree_handling_fees'
 end
 
 group :development do
