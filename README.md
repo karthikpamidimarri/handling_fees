@@ -1,7 +1,7 @@
 # SpreeWithExtensions
 SpreeWithExtensions
 
-
+{pre}
 Prerequsites:
   Ruby: 2.2.1
   postgresql
@@ -21,3 +21,4 @@ Now uncomment the handling_fee gem in the GemFile.
 
   bundle install
   rails g spree_handling_fees:install
+{/pre}
